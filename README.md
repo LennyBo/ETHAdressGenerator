@@ -6,6 +6,7 @@ This short program will generate a eth key pair that has the public key that sta
 
  * Python 3.x (tested on 3.8 and 3.9)
  * Install dependencies
+
 At the root of the repo in a command line:
 ```
 pip install requests
